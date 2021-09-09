@@ -6,7 +6,7 @@
 
   <groupId>net.aliengreys</groupId>
   <artifactId>stringtouuid</artifactId>
-  <version>v0.0.1</version>
+  <version>v1.0.0</version>
 
   <name>stringtouuid</name>
   <url>https://github.com/Mind-Surfer/stringToUuid</url>
