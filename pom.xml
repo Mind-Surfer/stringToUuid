@@ -9,14 +9,21 @@
   <version>v0.0.1</version>
 
   <name>stringtouuid</name>
-  <!-- FIXME change it to the project's website -->
-  <url>http://www.example.com</url>
+  <url>https://github.com/Mind-Surfer/stringToUuid</url>
 
   <properties>
     <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     <maven.compiler.source>1.7</maven.compiler.source>
     <maven.compiler.target>1.7</maven.compiler.target>
   </properties>
+
+  <distributionManagement>
+    <repository>
+      <id>github</id>
+      <name>GitHub Packages</name>
+      <url>https://maven.pkg.github.com/Mind-Surfer/stringToUuid</url>
+    </repository>
+  </distributionManagement>
 
   <dependencies>
     <dependency>
