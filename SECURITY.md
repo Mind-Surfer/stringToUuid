@@ -2,7 +2,7 @@
 
 ## Supported Versions
 
-Write something.
+v1.*.*
 
 ## Reporting a Vulnerability
 
