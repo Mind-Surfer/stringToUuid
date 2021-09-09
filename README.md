@@ -1,6 +1,6 @@
 # stringToUuid
 
-A Java class that converts the string representation of a UUID to the correct format. 
+A Java class that converts the string representation of a UUID to the correct format.
 
 ## Usage
 
